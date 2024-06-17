@@ -7,7 +7,7 @@ O projeto tem como objetivo implementar um sistema utilizando arduino e um displ
 - Pedro Guidotte Rm: 556630
 - Cauã Rodrigues Rm: 555373
 - Luiz Henrique Rm: 555235 
-- Gabriel Figueira Rm: 556476
+- Gabriel Ferreira Rm: 556476
 - Felipe Xavier Rm: 556931
 
 ## Componentes Utilizados:
